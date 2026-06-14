@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+numpy
+scipy
+librosa
+soundfile
+tensorflow
+ultralytics
+torch
+torchvision
+opencv-python-headless
+pillow
